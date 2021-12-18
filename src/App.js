@@ -16,7 +16,7 @@ function App() {
       <Container>
         <Navbar />
         <Switch>
-          <Route path="/#" exact>
+          <Route path="/" exact>
             <Home />
           </Route>
           <Route path="/category/:id" exact>
