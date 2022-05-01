@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/assignment-cart/static/css/main.1a5150fb.chunk.css",
+    "main.js": "/assignment-cart/static/js/main.874ea744.chunk.js",
+    "main.js.map": "/assignment-cart/static/js/main.874ea744.chunk.js.map",
+    "runtime-main.js": "/assignment-cart/static/js/runtime-main.e562474c.js",
+    "runtime-main.js.map": "/assignment-cart/static/js/runtime-main.e562474c.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/assignment-cart/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.fa394f24.chunk.js": "/assignment-cart/static/js/2.fa394f24.chunk.js",
+    "static/js/2.fa394f24.chunk.js.map": "/assignment-cart/static/js/2.fa394f24.chunk.js.map",
+    "index.html": "/assignment-cart/index.html",
+    "precache-manifest.db338bc7119d2dc53219937368190395.js": "/assignment-cart/precache-manifest.db338bc7119d2dc53219937368190395.js",
+    "service-worker.js": "/assignment-cart/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/assignment-cart/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.1a5150fb.chunk.css.map": "/assignment-cart/static/css/main.1a5150fb.chunk.css.map",
+    "static/js/2.fa394f24.chunk.js.LICENSE.txt": "/assignment-cart/static/js/2.fa394f24.chunk.js.LICENSE.txt",
+    "static/media/cart.fb08f8fe.svg": "/assignment-cart/static/media/cart.fb08f8fe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e562474c.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.fa394f24.chunk.js",
+    "static/css/main.1a5150fb.chunk.css",
+    "static/js/main.874ea744.chunk.js"
+  ]
+}
