@@ -2,7 +2,7 @@
   "name": "assignment",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shelooks16.github.io/assignment-cart",
+  "homepage": "http://revatsaharan.me/ecomm-website/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
